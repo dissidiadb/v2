@@ -1,1 +1,1 @@
-> Issue tracker for DissiidaDB v2 pages
+> Issue tracker for DissidiaDB v2 pages
